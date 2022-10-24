@@ -1,0 +1,11 @@
+Sistema hospedagem hotelaria
+
+reserva hotel
+se hospedar sozinho ou com mais pessoas
+na suite, com capacidade e preço da diaria
+realizando a diaria por um determinado periodo de tempo.
+
+calcular diaria, se dias >= 10, desconto 10% na diaria
+excecao, caso qtd pessoas na suite for diferente da quantidade de hospedes
+
+https://github.com/digitalinnovationone/trilha-net-explorando-desafio
